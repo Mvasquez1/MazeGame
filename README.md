@@ -7,8 +7,8 @@ Design Lead: Michael Vasquez (Mvasquez1)\
 Quality Assurance Tester: [Name] ([GitHub Name])
 
 # About Our Software
-Our project is a first person horror game that takes place in a maze...
-Describe a little about what the project is about here.
+Our project is a first person horror game that takes place in a maze...	
+	Describe a little about what the project is about here.
 ## Platforms Tested on
 - MacOS
 - Android
