@@ -1,4 +1,4 @@
-# [Name of the Project] : [Team Number]
+# [Horror Maze] : [11]
 # Members
 Project Manager: Bayla Patin (BaylaPatin)\
 Communications Lead: [Name] ([GitHub Name])\
@@ -7,12 +7,11 @@ Design Lead: Michael Vasquez (Mvasquez1)\
 Quality Assurance Tester: [Name] ([GitHub Name])
 
 # About Our Software
-
+Our project is a first person horror game that takes place in a maze...
 Describe a little about what the project is about here.
 ## Platforms Tested on
 - MacOS
 - Android
-- iOS
 - Linux
 - Windows
 # Important Links
@@ -23,6 +22,7 @@ Styles Guide(s): [link]
 # How to Run Dev and Test Environment
 
 ## Dependencies
+Godot...
 - List all dependencies here
 - Don't forget to include versions
 ### Downloading Dependencies
