@@ -3,7 +3,7 @@
 Project Manager: Bayla Patin (BaylaPatin)\
 Communications Lead: [Name] ([GitHub Name])\
 Git Master: [Name] ([GitHub Name])\
-Design Lead: [Name] ([GitHub Name])\
+Design Lead: Michael Vasquez (Mvasquez1)\
 Quality Assurance Tester: [Name] ([GitHub Name])
 
 # About Our Software
