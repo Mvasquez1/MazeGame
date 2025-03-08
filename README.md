@@ -1,5 +1,5 @@
-# [Horror Maze] : [11]
-# Members
+# [Horror Maze] : [11] - testing fork
+# Members - mv
 Project Manager: Bayla Patin (BaylaPatin)\
 Communications Lead: [Name] ([GitHub Name])\
 Git Master: [Name] ([GitHub Name])\
@@ -10,8 +10,3 @@ Quality Assurance Tester: [Name] ([GitHub Name])
 Our project is a first person horror game that takes place in a maze...	
 
 Variables: camelCase
-
-Functions: PascalCase
-
-Classes: PascalCase
-
